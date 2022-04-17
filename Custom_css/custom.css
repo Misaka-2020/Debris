@@ -1,7 +1,7 @@
 /*图片虚影*/
 .post_bg{
-    -webkit-animation: imgblur 2s 1 ease-in-out;
-    animation: imgblur 2s 1 ease-in-out;
+    -webkit-animation: imgblur 1s 1 ease-in-out;
+    animation: imgblur 1s 1 ease-in-out;
 }
 @-webkit-keyframes imgblur {
   0% {
