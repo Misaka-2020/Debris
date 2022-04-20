@@ -3,7 +3,7 @@
 文件夹结构图如下：
 
 butterfly
-    │  README.md
+    │  README.txt
     │  
     ├─layout
     │  └─includes
