@@ -17,5 +17,9 @@
 }
 [data-theme="dark"]
   #page-header::before{
-    background: transparent!important;
+    background: #12121250!important;
+    }
+[data-theme="dark"]
+  #footer::before{
+      background: #12121250!important;
     }
