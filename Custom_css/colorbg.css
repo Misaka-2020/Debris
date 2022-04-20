@@ -16,6 +16,6 @@
   --hr-border: rgb(181, 202, 160);
 }
 [data-theme="dark"]
-#page-header{
-  background: transparent!important;
-}
+  #page-header::before{
+    background: transparent!important;
+    }
