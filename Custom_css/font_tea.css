@@ -1,0 +1,9 @@
+@font-face{
+    font-family:'Tea' ;
+    src:url('https://cdn.jsdelivr.net/gh/Misaka-2020/Debris/Font/Tea.ttf');
+    font-display : swap;
+  }
+  
+  h1#site-title {
+    font-family: 'Tea', sans-serif;
+  }
