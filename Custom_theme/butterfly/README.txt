@@ -7,6 +7,9 @@ butterfly
     │  
     ├─layout
     │  └─includes
+    │      ├─mixins
+    │      │      post-ui.pug
+    │      │      
     │      ├─page
     │      │  │  flink.pug
     │      │  │  
