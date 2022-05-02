@@ -6,6 +6,8 @@
 
 - [x] Custom_css : 对[主题](https://github.com/jerryc127/hexo-theme-butterfly)自定义修改所用到的引用 css 在此。
 
+- [x] Custom_font : 对[主题](https://github.com/jerryc127/hexo-theme-butterfly)自定义修改所用到的引用字体在此。
+
 - [x] Custom_js : 对[主题](https://github.com/jerryc127/hexo-theme-butterfly)自定义修改所用到的引用 js 在此。
 
 - [x] Custom_json : 评论系统 [twikoo](https://github.com/imaegoo/twikoo) 使用的表情包引用在此，感谢 [2X-ercha](https://github.com/2X-ercha/Twikoo-Magic) 提供。
