@@ -1,6 +1,6 @@
 **Custom_theme**
 
-文件夹结构图如下： Updated: 2022/5/1
+文件夹结构图如下： Updated: 2022/6/27
 ```
 Custom_theme
     └─butterfly
@@ -8,9 +8,11 @@ Custom_theme
         │  
         ├─layout
         │  └─includes
-        │      │  layout.pug
-        │      │  
+        │      ├─head
+        │      │      preconnect.pug
+        │      │      
         │      ├─loading
+        │      │  │  loading-js.pug
         │      │  │  loading.pug
         │      │  │  
         │      │  └─load_style
@@ -34,7 +36,6 @@ Custom_theme
         │              
         └─source
             └─css
-                │  index.styl
                 │  var.styl
                 │  
                 ├─_flink_style
