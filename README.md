@@ -1,6 +1,6 @@
 ## My [Blog](https://blog.likeme.moe) 部分资源的备份仓库
 
-- [x] Blog_cdn : 4月28日 [jsDelivr](https://www.jsdelivr.com) CDN 被 GFW 污染导致全国大范围不能正常使用，考虑到 GFW 未来的动作和 Blog 的加载速度，对调用的部分 css 和 js 做了本地备份，并更换了 CDN 。
+- [x] Blog_cdn : 4 月 28 日 [jsDelivr](https://www.jsdelivr.com) CDN 被 GFW 污染导致全国大范围不能正常使用，考虑到 GFW 未来的动作和 Blog 的加载速度，对调用的部分 css 和 js 做了本地备份，并更换了 CDN 。
 
 - [ ] ~~Blog_img~~ : 原 Blog 图床，考虑到图片访问速度及对 github 仓库的滥用，已迁移。
 
